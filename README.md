@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.notion.so/Kang-Seung-Min-908fc2230a7744c3bf4feaa358b46f15" target="Notion"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <!--
 **Seungminin/Seungminin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
