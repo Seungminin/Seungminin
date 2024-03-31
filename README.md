@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <a href="https://www.notion.so/Kang-Seung-Min-908fc2230a7744c3bf4feaa358b46f15" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungminin&show_icons=true&theme=radical)
