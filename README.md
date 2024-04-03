@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <a href="https://www.notion.so/Kang-Seung-Min-908fc2230a7744c3bf4feaa358b46f15" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungminin&langs_count=8)](https://github.com/Seungminin/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungminin&show_icons=true&theme=onedark)
 
