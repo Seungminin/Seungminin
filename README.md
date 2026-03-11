@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Seungmin Kang 😃
 
+</div>
+
 ## 🚀 About Me
 
 - Undergraduate student in **AI Software / Artificial Intelligence**
 - Interested in **AI for Finance**, **Tabular Deep Learning**, **Time-Series Forecasting**
 - Studying how AI can improve **financial prediction, portfolio construction, and decision-making**
 - Currently exploring **representation learning, generative models, and data-centric AI**
-
-</div>
 
 ---
 
