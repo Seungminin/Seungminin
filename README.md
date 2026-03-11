@@ -7,14 +7,13 @@
 금융 데이터를 이해하고,  
 AI로 예측 · 생성 · 의사결정 문제를 해결하는 개발자를 지향합니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungminin&show_icons=true&theme=onedark)
-
 <br>
 
 [![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Kang-Seung-Min-908fc2230a7744c3bf4feaa358b46f15)
 [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here)
 [![GitHub](https://img.shields.io/badge/GitHub-Seungminin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seungminin)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungminin&show_icons=true&theme=onedark)
 </div>
 
 ---
