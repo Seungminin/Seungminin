@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Seungmin Kang 😃
+👋 Hi, I'm Seungmin Kang 😃
 
 </div>
 
