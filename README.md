@@ -1,10 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Seungmin Kang 😃
+## 👋 Hi, I'm Seungmin Kang 😃
 
 </div>
-
-## 🚀 About Me
 
 - Undergraduate student in **AI Software / Artificial Intelligence**
 - Interested in **AI for Finance**, **Tabular Deep Learning**, **Time-Series Forecasting**
